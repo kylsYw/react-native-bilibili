@@ -1,2 +1,3 @@
-# react-native-bilibili
-仿造bilibili的rn demo
+#### 需要link的包
++ react-native-gesture-handler
++ react-native-svg
